@@ -1,1 +1,1 @@
-# React-CV
+Creating a portfolio for my projects, with react, in the style of Tesla's website
